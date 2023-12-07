@@ -25,7 +25,9 @@ body{
     
 
 }
-
+.p{
+   color: aliceblue; 
+}
 .list li{
     margin:5px 10px;
 
